@@ -1,5 +1,8 @@
 Python is full of awesome features and tricks, that make you think "Wow! Python is so cool!".
 
+Yeah!
+
+
 We've done a selection of features we particularly like. We hope you'll learn something that will make you say "Neat! I didn't know that".
 
 - [Generators](#generators)
